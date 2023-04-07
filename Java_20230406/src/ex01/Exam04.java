@@ -1,0 +1,33 @@
+package ex01;
+import java.util.*;
+//성적 입력 받아서 70이상 합격했습니다메세지 출력..
+public class Exam04 {
+
+	public static void main(String[] args) {
+
+		
+		
+			Scanner sc = new Scanner(System.in);
+			int jumsu = sc.nextInt();
+			
+			
+			//조건문~if
+			if(jumsu>=70)
+				System.out.println("당신은 합격했습니다.");
+			
+				System.out.println("프로그램 종료.");
+			
+			
+				int age =sc.nextInt();
+			    
+				if(age>=20)	
+				System.out.println("성년");
+				
+				else
+				System.out.println("미성년");
+
+				
+			
+	}
+
+}
