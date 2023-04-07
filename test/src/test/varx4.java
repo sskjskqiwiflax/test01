@@ -9,11 +9,11 @@ public class varx4 {
 		
 		Scanner sc = new Scanner(System.in);
 		
-		System.out.println= sc.nextLine("문자열 입력 하세요:");
-		String inpout = sc.ne	nxtLine();
+	//.out.println= sc.nextLine("문자열 입력 하세요:");
+	//	String inpout = sc.ne	nxtLine();
 		
 		
-        System.out.println(input);
+     //   System.out.println(input);
         
         
 	}

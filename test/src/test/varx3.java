@@ -36,7 +36,7 @@ public class varx3 {
 	    
 		System.out.println("-------------------------");
 		int finger=10;
-		System.out.printf("finger
+	//	System.out.printf("finger
 
 				
 				
