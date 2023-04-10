@@ -8,13 +8,15 @@ public class Exam4 {
 		Scanner sc =new Scanner(System.in);
 		   
 		System.out.println("숫자 입력");
-			int num =sc.nextInt();
-	
+		
+		int num =sc.nextInt();
 						
 		if(num %2==0 && num %3==0)
 			System.out.println("2와 3의배수입니다");
 		else    
 			System.out.println("2와 3의 배수가아닙니다");
 	}
-
 }
+	
+	
+	
