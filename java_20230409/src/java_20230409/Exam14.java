@@ -26,7 +26,7 @@ public class Exam14 {
 				System.out.println("com은 큰 수입니다");
 			}
 			System.out.println(count+"회 맞춤");
-			System.out.println("com:"+com+"use5r:"+user);
+			System.out.println("com:"+com+"user:"+user);
 				
 				
 				
