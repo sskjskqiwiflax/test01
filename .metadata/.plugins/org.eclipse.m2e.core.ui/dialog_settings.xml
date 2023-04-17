@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\works\test01\java_20230413\src\java_20230413"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

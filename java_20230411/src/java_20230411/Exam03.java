@@ -11,13 +11,13 @@ public class Exam03 {
 		 str[1]="eng";
 		 str[2]="math";
 		 
-		 string[] str2= {"kor2","eng2","math2"};\
+//		 string[] str2= {"kor2","eng2","math2"};
 		 
 		 System.out.println(Arrays.toString(str));
-		 System.out.println(Arrays.toString(str2));
+//		 System.out.println(Arrays.toString(str2));
 		
 		
 		
-		
+	}	
 	}
-}
+
